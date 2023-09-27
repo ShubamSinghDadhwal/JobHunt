@@ -26,3 +26,9 @@ View All Posted Jobs: Users can view a list of all the posted jobs with paginati
 
 
 View Job Applicants: For each job listing, users can see a list of applicants who have applied for that particular job.  
+
+## Getting Started
+
+- use node version 18 & do "npm install" for the installation of node modules
+
+- then start the react app using "npm start" command
