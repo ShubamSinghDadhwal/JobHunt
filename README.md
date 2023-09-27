@@ -6,12 +6,23 @@ This repository contains a condensed version of a job application web applicatio
 ## Features
 
 ### User Authentication
-Signup: Users can create a new account by providing their email address and password.
-Login: Registered users can log in to their accounts using their credentials.
-Logout: Users can log out of their accounts to securely end their session.
-Forgot Password: In case users forget their password, they can request a password reset link via email.
+Signup: Users can create a new account by providing their email address and password.  
+
+
+Login: Registered users can log in to their accounts using their credentials.  
+
+
+Logout: Users can log out of their accounts to securely end their session.  
+
+
+Forgot Password: In case users forget their password, they can request a password reset link via email.  
+
 
 ### Job Posting and Listing
-Post a Job: Authenticated users can post job listings by providing job details such as title, description, and other relevant information.
-View All Posted Jobs: Users can view a list of all the posted jobs with pagination support.
-View Job Applicants: For each job listing, users can see a list of applicants who have applied for that particular job.
+Post a Job: Authenticated users can post job listings by providing job details such as title, description, and other relevant information.  
+
+
+View All Posted Jobs: Users can view a list of all the posted jobs with pagination support.  
+
+
+View Job Applicants: For each job listing, users can see a list of applicants who have applied for that particular job.  
